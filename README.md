@@ -48,3 +48,4 @@ docker compose up -d
 - Successful GitHub Actions run
 - Docker Hub repository with the pushed image
 - Local browser hitting `http://localhost:8080/`
+(Triggered again for testing ??) 
